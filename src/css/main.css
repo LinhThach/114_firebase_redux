@@ -1,0 +1,14 @@
+.card .card-header .title {
+  margin-left: auto;
+}
+.card .card-header .close-btn {
+  margin-left: auto;
+  cursor: pointer;
+  color: lightgray;
+  transition: 0.4s;
+}
+.card .card-header .close-btn:hover {
+  color: black;
+}
+
+/*# sourceMappingURL=main.css.map */

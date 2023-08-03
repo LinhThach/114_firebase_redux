@@ -1,0 +1,16 @@
+.card{
+    .card-header{
+        .title{
+            margin-left: auto;
+        }
+        .close-btn{
+            margin-left: auto;
+            cursor: pointer;
+            color: lightgray;
+            transition: .4s;
+            &:hover{
+                color: black;
+            }
+        }
+    }
+}
